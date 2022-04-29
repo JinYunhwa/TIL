@@ -1,4 +1,4 @@
-# the_elderly_supporter
+# capstone
 
 ## Project setup
 ```
