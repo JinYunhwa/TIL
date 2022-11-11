@@ -43,7 +43,14 @@ Resolves : #issue, .... (해결한 이슈, 생략 가능)
 See also : #issue, .... (참고 이슈, 생략 가능)
 Issue Tracker ID를 작성할 때 사용
 
+## 깃허브 레포 합치기
+ 1. git remote add <리모트명> <레포지토리 url>
+ 2. git subtree add --prefix=<폴더명> <리모트명> <부모 레포지토리의 브랜치>
+ 3. commit & push
+ 4. 자식 레포지토리 삭제
+
 ## reference
  https://github.com/mangdo/TIL/blob/main/Database/RDBMS-vs-NoSQL.md
  https://firstblog912.tistory.com/165
  깃허브 레포 합치기 - https://yeonyeon.tistory.com/169
+ 깃 커밋 로그 확인 - https://bite-sized-learning.tistory.com/198
