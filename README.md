@@ -5,8 +5,7 @@ https://github.com/JinYunhwa/TIL
 
 ## Java
 
-## lecture
- + [lecture](./lecture/)
+## [lecture](./lecture/)
 ## vue.js
  + [테스트](./vue.js/test.md)
 ## Database
