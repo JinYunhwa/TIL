@@ -46,3 +46,4 @@ Issue Tracker ID를 작성할 때 사용
 ## reference
  https://github.com/mangdo/TIL/blob/main/Database/RDBMS-vs-NoSQL.md
  https://firstblog912.tistory.com/165
+ 깃허브 레포 합치기 - https://yeonyeon.tistory.com/169
