@@ -6,7 +6,7 @@ https://github.com/JinYunhwa/TIL
 ## Java
 
 ## lecture
- + [lecture](./lecture/test.md)
+ + [lecture](./lecture/)
 ## vue.js
  + [테스트](./vue.js/test.md)
 ## Database
@@ -46,7 +46,7 @@ Issue Tracker ID를 작성할 때 사용
 ## 깃허브 레포 합치기
  1. git remote add <리모트명> <레포지토리 url>
  2. git subtree add --prefix=<폴더명> <리모트명> <부모 레포지토리의 브랜치>
- 3. commit & push
+ 3. git push
  4. 자식 레포지토리 삭제
 
 ## reference
