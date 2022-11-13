@@ -20,6 +20,11 @@ cd vue-project
 ```
 npm run serve
 ```
+# 컴포넌트 basic
+
+snippet 설정
+1. file -> Prefrence -> User Snippets 선택
+Snippets을 등록할 파일 유형 선택 -> vue입력
 
 # 화면 레이아웃 구현
 # 메뉴 구성
