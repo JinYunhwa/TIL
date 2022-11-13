@@ -7,12 +7,19 @@ Vue CLI : Vue 프로젝트를 빠르게 구성하고, 빌드, 디플로이를 �
 CLI : Command Line Interface의 약자. 터미널에 명령어를 입력하여 컴퓨터와 상호작용하는 방식
 
 터미널에 아래의 명령어를 입력하여 Vue CLI를 설치
+```
 npm install -g @vue/cli
-
+```
 뷰 프로젝트 생성
+```
 vue create vue-project
+```
+```
 cd vue-project
+```
+```
 npm run serve
+```
 
 # 화면 레이아웃 구현
 # 메뉴 구성
