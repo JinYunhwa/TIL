@@ -1,11 +1,14 @@
 <template>
-    <h1>Hello, {{title}}!</h1>
+    <div>
+        <div>{{htmlString}}</div>
+        <div v-html="htmlString"></div>
+    </div>
 </template>
 <script>
 export default {
     data() {
         return {
-            title: 'world',
+            htmlString: '<p style="color:red;">Thi is a red string.</p>'
         };
     },
 }
